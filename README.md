@@ -26,8 +26,19 @@ I'm a 2<sup>nd</sup> year **_Computer Science_** student currently learning **AI
   <a href="https://www.linkedin.com/in/alejandro-pachone-25b98928b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJKjWCCkhJpzSZxwXqBCCqQnkVxrhfpnmRkhlwSRqnPLqBsPkkxhBlLRKldwDxSwwWmG">
+    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-E61B23.svg?logo=mail">
+  </a>
+  <a href="https://www.instagram.com/its.alpachone/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E61B.svg?logo=instagram">
+  </a>
+  <a href="https://www.tiktok.com/@its.alpachone">
+    <img src="https://custom-icon-badges.demolab.com/badge/TikTok-000000.svg?logo=tiktok">
+  </a>
 </p>
-gmail, intagram, tiktok
+
+
+
 
 <!---
 AlejoPH03/AlejoPH03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
