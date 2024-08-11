@@ -1,7 +1,7 @@
 # Alejandro Pachone 💪🎯
-**`Comp. Scientist, Digital Crafstman & Life Engineer`**
+**`Comp. Scientist`**
 
-I'm a 2<sup>nd</sup> year **_Computer Science_** student currently learning **AI Methods** & **Software Development**. I'm also a **_Content Creator_** in **TikTok** & **Instagram**, and a passionate **_Bodybuilder_** looking to improve every aspect of my life 1% each day.
+I'm a 3<sup>rd</sup> year **_Computer Science_** student currently learning **AI Methods** & **Software Development**. I'm also a **_Content Creator_** in **TikTok** & **Instagram**, and a passionate **_Bodybuilder_** looking to improve every aspect of my life 1% each day.
 #
 ### 🧰 My ToolBox:
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
