@@ -1,4 +1,4 @@
-# Alejandro Pachone 💪🎯
+# Alejandro Pachone
 **`Comp. Scientist`**
 
 I'm a 3<sup>rd</sup> year **_Computer Science_** student currently learning **AI Methods** & **Software Development**. I'm also a **_Content Creator_** in **TikTok** & **Instagram**, and a passionate **_Bodybuilder_** looking to improve every aspect of my life 1% each day.
@@ -28,12 +28,6 @@ I'm a 3<sup>rd</sup> year **_Computer Science_** student currently learning **AI
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJKjWCCkhJpzSZxwXqBCCqQnkVxrhfpnmRkhlwSRqnPLqBsPkkxhBlLRKldwDxSwwWmG">
     <img src="https://custom-icon-badges.demolab.com/badge/Gmail-E61B23.svg?logo=mail">
-  </a>
-  <a href="https://www.instagram.com/its.alpachone/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E61B.svg?logo=instagram">
-  </a>
-  <a href="https://www.tiktok.com/@its.alpachone">
-    <img src="https://custom-icon-badges.demolab.com/badge/TikTok-000000.svg?logo=tiktok">
   </a>
 </p>
 
