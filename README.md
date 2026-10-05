@@ -4,7 +4,6 @@
  * Built data and automation tools at **Siemens Healthineers** that now save the team hundreds of hours a year
  * Currently building with **Claude** and learning how to test whether AI systems actually do what we think they do
   *  Spanish, English, German and French
-  *  Fitness coach on the side. Same rule for code and the gym: get 1% better every day  
 
 ---
 
