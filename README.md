@@ -1,40 +1,57 @@
 # Alejandro Pachone
-**`Comp. Scientist`**
 
-I'm a 3<sup>rd</sup> year **_Computer Science_** student currently learning **AI Methods** & **Software Development**. I'm also a **_Content Creator_** in **TikTok** & **Instagram**, and a passionate **_Bodybuilder_** looking to improve every aspect of my life 1% each day.
-#
-### 🧰 My ToolBox:
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-<br />
+* Computer Science graduate (University of Nottingham), now doing an MSc in Innovation & Entrepreneurship at **Imperial**
+ * Built data and automation tools at **Siemens Healthineers** that now save the team hundreds of hours a year
+ * Currently building with **Claude** and learning how to test whether AI systems actually do what we think they do
+  *  Spanish, English, German and French
+  *  Fitness coach on the side. Same rule for code and the gym: get 1% better every day  
 
-#
+---
 
-### 📫 You can reach me via: 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-pachone-25b98928b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJKjWCCkhJpzSZxwXqBCCqQnkVxrhfpnmRkhlwSRqnPLqBsPkkxhBlLRKldwDxSwwWmG">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-E61B23.svg?logo=mail">
-  </a>
+### 🚀 Featured project
+
+**[Crisis Negotiation Simulator](https://github.com/AlejoPH03/crisis-negotiation-simulator)**  
+Two AI agents negotiate a hostage crisis: an FBI negotiator and a hostage taker. I rebuilt my university project to run on Claude and compared it with the original model. The surprise: the rules I used to score the negotiations only worked for the old model. A good reminder to check how you measure an AI before trusting the results.
+
+### 🛠️ Other things I've built
+
+- **GenAI packaging designer for Nestlé:** led a team of 8 to build a web app that creates packaging designs with a fine-tuned image model  
+- **Document Q&A chatbot:** upload any PDF and ask it questions in plain English  
+- **Factory audit tool at Siemens Healthineers:** checks ~250 magnets a week so managers can trust their production data  
+
+---
+
+### 🧰 Toolbox
+
+<p>
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Claude" width="40" src="https://cdn.simpleicons.org/claude"/>
+  <img alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="Hugging Face" width="40" src="https://cdn.simpleicons.org/huggingface"/>
+  <img alt="LangChain" width="40" src="https://cdn.simpleicons.org/langchain/1C3C3C/white"/>
+  <img alt="Ollama" width="40" src="https://cdn.simpleicons.org/ollama/black/white"/>
+  <img alt="Flask" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img alt="Jupyter" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img alt="MATLAB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img alt="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 
+Also: Microsoft Power Platform (Power BI, Power Apps, Power Automate), SAP
 
+---
 
+### 📫 Get in touch
 
-<!---
-AlejoPH03/AlejoPH03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <a href="https://www.linkedin.com/in/alejandro-pachone">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alejandro.pachone26@imperial.ac.uk">
+    <img src="https://img.shields.io/badge/Email-E61B23.svg?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
